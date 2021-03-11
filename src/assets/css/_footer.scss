@@ -1,0 +1,24 @@
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+#footer {
+  background: #111;
+  padding: 10px 0;
+  color: #fff;
+
+  .copyright {
+    text-align: center;
+  }
+  
+  .credits {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 13px;
+    color: #ccc;
+    img{
+      width: 100px;
+    }
+  }
+
+}
